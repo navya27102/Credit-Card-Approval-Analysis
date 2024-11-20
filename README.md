@@ -1,1 +1,2 @@
 # Credit-Card-Approval-Analysis
+The Credit Card Approval Analysis project aims to predict whether a person’s credit card application will be approved or denied based on various personal and financial attributes. Using a dataset that includes factors like age, income, credit score, employment status, and other socio-economic indicators, this project seeks to explore the relationship between these features and approval outcomes.
